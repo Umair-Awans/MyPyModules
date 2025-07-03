@@ -1,5 +1,5 @@
 import random
-from MyMath.validators import isIntBetween
+from MyLibrary.input_validators import validate_number
 from typing import Dict
 
 
@@ -72,7 +72,7 @@ class MCQ:
         Returns:
             bool: True if the user's answer is correct, False otherwise.
         """
-        user_answer = isIntBetween("\nWhat is the correct answer?: ", 1, self.limit)
+        user_answer = validate_number("\nWhat is the correct answer?: ", 1, self.limit)
         if user_answer == correct_option_index:
             print("Correct answer!")
             return True

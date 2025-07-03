@@ -1,5 +1,5 @@
 import re
-from MyMath.HCF_LCM import gcd
+from MyMath.hcf_lcm import gcd
 
 # Improved pattern for matching fractions
 # Explanation of the new pattern:
