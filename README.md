@@ -1,4 +1,4 @@
-# 🧰 MyModules – Python CLI + PyQt5 Utilities Toolkit
+# 🧰 MyPyModules – Python CLI + PyQt5 Utilities Toolkit
 
 ![Python 3.7+](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -14,7 +14,7 @@ This project contains several useful Python modules I've created to speed up dev
 
 As a self-taught developer exploring Python, PyQt5, and command-line development, I often found myself rewriting the same bits of code — input validation, menu systems, number utilities, and basic widgets.
 
-I built **MyModules** as a personal toolkit to:
+I built **MyPyModules** as a personal toolkit to:
 - Reduce repetitive coding,
 - Practice clean and modular programming,
 - And reuse well-tested logic across different projects.
