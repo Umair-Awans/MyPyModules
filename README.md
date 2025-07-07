@@ -28,7 +28,7 @@ It started as a learning project and gradually evolved into a helpful utility se
 No installation is needed — just clone the repo and import the modules you need.
 
 ```bash
-git clone https://github.com/Umairccodes/MyPyModules.git
+git clone https://github.com/Umair-Awans/MyPyModules.git
 cd MyPyModules
 
 Example imports:
